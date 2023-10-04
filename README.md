@@ -1,3 +1,3 @@
-#Page web html consacrée au Datadesign : https://smattiocco.github.io/pagewebhtml/ 
+#Page web consacrée au Datadesign : https://smattiocco.github.io/pagewebhtml/ 
 
 ## Plusieurs excercices 
