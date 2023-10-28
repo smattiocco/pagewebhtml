@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:viz="http:///www.gexf.net/1.1draft/viz">
+  <meta>
+    <title>Top industries for increasing skill requirements, 2023–2027</title>
+    <authors>Mattiocco Shanon</authors>
+    <description>Technologie skills</description>
+  </meta>
+  <graph defaultedgetype="undirected">
+    <attributes class="node">
+      <attribute id="attr_type" title="attr_type" type="string"/>
+      <attribute id="global_occurrences" title="global_occurrences" type="integer"/>
+      <attribute id="attr_1_2" title="attr_1_2" type="string"/>
+      <attribute id="attr_2_3" title="attr_2_3" type="string"/>
+    </attributes>
+    <attributes class="edge">
+      <attribute id="matchings_count" title="matchings_count" type="integer"/>
+    </attributes>
+    <nodes>
+      <node id="industry_88d923ba797e9cafdfa4176f02bc2537" label="care">
+        <attvalues>
+          <attvalue for="attr_type" value="Industry"/>
+          <attvalue for="global_occurrences" value="1"/>
+          <attvalue for="attr_1_2" value="Creative thinking"/>
+          <attvalue for="attr_2_3" value="n/a"/>
+        </attvalues>
+        <viz:size/>
+        <viz:position x="30.64036593633659" y="40.719541889868125"/>
+      </node>
+      <node id="industry_93eed081a1e88f5c5538e7ae48d053fd" label="chemical and advanced materials">
+        <attvalues>
+          <attvalue for="attr_type" value="Industry"/>
+          <attvalue for="global_occurrences" value="1"/>
+          <attvalue for="attr_1_2" value="Communication"/>
+          <attvalue for="attr_2_3" value="n/a"/>
+        </attvalues>
+        <viz:size/>
+        <viz:position x="86.80480683505878" y="55.17853774436345"/>
+      </node>
+      <node id="industry_1d373378f2a1f554d5cf251f848a216b" label="employment services">
+        <attvalues>
+          <attvalue for="attr_type" value="Industry"/>
+          <attvalue for="global_occurrences" value="1"/>
+          <attvalue for="attr_1_2" value="Social intelligence"/>
+          <attvalue for="attr_2_3" value="n/a"/>
+        </attvalues>
+        <viz:size/>
+        <viz:position x="53.519080322395254" y="81.36169705735227"/>
+      </node>
+      <node id="industry_430f9a39a013d87d12ed8a161b78931a" label="energy technology and utilities">
+        <attvalues>
+          <attvalue for="attr_type" value="Industry"/>
+          <attvalue for="global_occurrences" value="1"/>
+          <attvalue for="attr_1_2" value="Decision-making"/>
+          <attvalue for="attr_2_3" value="n/a"/>
+        </attvalues>
+        <viz:size/>
+        <viz:position x="42.503574002416315" y="6.737991316463443"/>
+      </node>
+      <node id="industry_b0ae39dbeb27dee4fd3600a5a764d56d" label="financial services and capital markets">
+        <attvalues>
+          <attvalue for="attr_type" value="Industry"/>
+          <attvalue for="global_occurrences" value="1"/>
+          <attvalue for="attr_1_2" value="Data analysis"/>
+          <attvalue for="attr_2_3" value="n/a"/>
+        </attvalues>
+        <viz:size/>
+        <viz:position x="96.34152107513844" y="96.4764364716882"/>
+      </node>
+      <node id="industry_b7e8f8c69e1f05e025b5dbc43cccc300" label="information and technology services">
+        <attvalues>
+          <attvalue for="attr_type" value="Industry"/>
+          <attvalue for="global_occurrences" value="1"/>
+          <attvalue for="attr_1_2" value="Problem-solving"/>
+          <attvalue for="attr_2_3" value="n/a"/>
+        </attvalues>
+        <viz:size/>
+        <viz:position x="26.382973968240453" y="59.78223292516724"/>
+      </node>
+      <node id="industry_621082bd66f02535510ed13dea398c06" label="insurance and pensions management">
+        <attvalues>
+          <attvalue for="attr_type" value="Industry"/>
+          <attvalue for="global_occurrences" value="1"/>
+          <attvalue for="attr_1_2" value="Analytical thinking"/>
+          <attvalue for="attr_2_3" value="n/a"/>
+        </attvalues>
+        <viz:size/>
+        <viz:position x="96.56903956632439" y="93.75692150663333"/>
+      </node>
+      <node id="industry_55fe6b616fe0798a63685fa4c288800c" label="personal services and wellbeing">
+        <attvalues>
+          <attvalue for="attr_type" value="Industry"/>
+          <attvalue for="global_occurrences" value="1"/>
+          <attvalue for="attr_1_2" value="Creative thinking"/>
+          <attvalue for="attr_2_3" value="n/a"/>
+        </attvalues>
+        <viz:size/>
+        <viz:position x="33.63969704040129" y="78.45105448785172"/>
+      </node>
+      <node id="cognitiveskill_e2b2a1e52036e0fe34b468d26f2558cf" label="analytical thinking">
+        <attvalues>
+          <attvalue for="attr_type" value="Cognitive skill"/>
+          <attvalue for="global_occurrences" value="1"/>
+          <attvalue for="attr_1_2" value="n/a"/>
+          <attvalue for="attr_2_3" value="70.7%"/>
+        </attvalues>
+        <viz:size/>
+        <viz:position x="98.14072130074996" y="59.9760373300928"/>
+      </node>
+      <node id="cognitiveskill_979b93285de87c4731fc824bd9e4ba75" label="communication">
+        <attvalues>
+          <attvalue for="attr_type" value="Cognitive skill"/>
+          <attvalue for="global_occurrences" value="1"/>
+          <attvalue for="attr_1_2" value="n/a"/>
+          <attvalue for="attr_2_3" value="67.2%"/>
+        </attvalues>
+        <viz:size/>
+        <viz:position x="62.260055441387216" y="42.503409559925245"/>
+      </node>
+      <node id="cognitiveskill_1ae27e492612adf14a8cd132882a3dcc" label="creative thinking">
+        <attvalues>
+          <attvalue for="attr_type" value="Cognitive skill"/>
+          <attvalue for="global_occurrences" value="1"/>
+          <attvalue for="attr_1_2" value="n/a"/>
+          <attvalue for="attr_2_3" value="71.9%"/>
+        </attvalues>
+        <viz:size/>
+        <viz:position x="31.648905699082963" y="7.06365331412202"/>
+      </node>
+      <node id="cognitiveskill_cbfb2fae0fb557c1427b73798fb4954d" label="data analysis">
+        <attvalues>
+          <attvalue for="attr_type" value="Cognitive skill"/>
+          <attvalue for="global_occurrences" value="1"/>
+          <attvalue for="attr_1_2" value="n/a"/>
+          <attvalue for="attr_2_3" value="67.4%"/>
+        </attvalues>
+        <viz:size/>
+        <viz:position x="29.600274974409402" y="11.91110944743501"/>
+      </node>
+      <node id="cognitiveskill_ebda7d8c75060ad10b217079b17db40a" label="decision-making">
+        <attvalues>
+          <attvalue for="attr_type" value="Cognitive skill"/>
+          <attvalue for="global_occurrences" value="1"/>
+          <attvalue for="attr_1_2" value="n/a"/>
+          <attvalue for="attr_2_3" value="67.9%"/>
+        </attvalues>
+        <viz:size/>
+        <viz:position x="51.16052437813601" y="43.053662157300195"/>
+      </node>
+      <node id="cognitiveskill_bcd9c66aae27ff7b1f517369371db951" label="problem-solving">
+        <attvalues>
+          <attvalue for="attr_type" value="Cognitive skill"/>
+          <attvalue for="global_occurrences" value="1"/>
+          <attvalue for="attr_1_2" value="n/a"/>
+          <attvalue for="attr_2_3" value="70.1%"/>
+        </attvalues>
+        <viz:size/>
+        <viz:position x="96.57355677139634" y="42.34479616471738"/>
+      </node>
+      <node id="cognitiveskill_7fb4b328d9e1ee43011cbac82f1cd38b" label="social intelligence">
+        <attvalues>
+          <attvalue for="attr_type" value="Cognitive skill"/>
+          <attvalue for="global_occurrences" value="1"/>
+          <attvalue for="attr_1_2" value="n/a"/>
+          <attvalue for="attr_2_3" value="69.7%"/>
+        </attvalues>
+        <viz:size/>
+        <viz:position x="64.99816464349242" y="97.9535840802092"/>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="geid_210_0" source="industry_88d923ba797e9cafdfa4176f02bc2537" target="cognitiveskill_1ae27e492612adf14a8cd132882a3dcc">
+        <attvalues>
+          <attvalue for="matchings_count" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_210_1" source="industry_93eed081a1e88f5c5538e7ae48d053fd" target="cognitiveskill_979b93285de87c4731fc824bd9e4ba75">
+        <attvalues>
+          <attvalue for="matchings_count" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_210_2" source="industry_1d373378f2a1f554d5cf251f848a216b" target="cognitiveskill_7fb4b328d9e1ee43011cbac82f1cd38b">
+        <attvalues>
+          <attvalue for="matchings_count" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_210_3" source="industry_430f9a39a013d87d12ed8a161b78931a" target="cognitiveskill_ebda7d8c75060ad10b217079b17db40a">
+        <attvalues>
+          <attvalue for="matchings_count" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_210_4" source="industry_b0ae39dbeb27dee4fd3600a5a764d56d" target="cognitiveskill_cbfb2fae0fb557c1427b73798fb4954d">
+        <attvalues>
+          <attvalue for="matchings_count" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_210_5" source="industry_b7e8f8c69e1f05e025b5dbc43cccc300" target="cognitiveskill_bcd9c66aae27ff7b1f517369371db951">
+        <attvalues>
+          <attvalue for="matchings_count" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_210_6" source="industry_621082bd66f02535510ed13dea398c06" target="cognitiveskill_e2b2a1e52036e0fe34b468d26f2558cf">
+        <attvalues>
+          <attvalue for="matchings_count" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_210_7" source="industry_55fe6b616fe0798a63685fa4c288800c" target="cognitiveskill_1ae27e492612adf14a8cd132882a3dcc">
+        <attvalues>
+          <attvalue for="matchings_count" value="1"/>
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
